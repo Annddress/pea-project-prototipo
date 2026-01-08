@@ -1,0 +1,27 @@
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+#resultados {
+    margin-top: 10px;
+}
+
+.resultado-item {
+    padding: 10px;
+    background: #e9f5ff;
+    margin-bottom: 10px;
+    border-left: 5px solid #007BFF;
+    border-radius: 5px;
+}
+
+.sin-resultados {
+    color: #777;
+}
+
+.error {
+    color: red;
+}
